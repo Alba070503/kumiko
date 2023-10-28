@@ -15,7 +15,7 @@ Natsuki se seguira usando para distintas cosas y funciones.
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
-<a href="http://wa.me/528442286089" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59177601773" target="blank"><img src="https://img.shields.io/badge/Alba070503-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `—◉ 🔥GRUPOS OFICIALES`
@@ -68,7 +68,7 @@ Natsuki se seguira usando para distintas cosas y funciones.
 ### `—◉ ☑️ ACTIVAR EN CASO DE APAGARSE EN TERMUX ☑️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Shadow-Bot-MD
+> cd kumiko
 > npm start
 ```
 
@@ -95,6 +95,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/darlyn1234"><img src="https://github.com/darlyn1234.png" width="100" height="100" alt="darlyn1234"/></a>
 <a href="https://github.com/Zastinian"><img src="https://github.com/Zastinian.png" width="100" height="100" alt="Zastinian"/></a>  <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="BrunoSobrino"/></a> <a href="https://github.com/Skidy89"><img src="https://github.com/Skidy89.png" width="100" height="100" alt="putos negros"/>
 </a>
+<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="100" height="100" alt="SinNombre999"/></a>
+
 <a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="100" height="100" alt="elrebelde21"/> 
 </a>  
 
