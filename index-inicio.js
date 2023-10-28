@@ -10,13 +10,13 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say("SHADOW-BOT", {
+say("KUMIKO-BOT", {
   font: "tiny",
   align: "center",
   colors: ["#ff8000"],
 });
 
-say("CREADO POR DIEGO-OFC", {
+say("CREADO POR ALBA070503", {
   font: "console",
   align: "center",
   colors: ["red"],
