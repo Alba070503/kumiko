@@ -22,39 +22,8 @@ var shadow = async (m, {
     }
    const db = "./galeria/menudorrat3.jpg"
   
-if (command == "menu" || command == "menú") {
-let uwu = `╦══════════════════ ⪨
-┃│✾ ⋟ *${ucapan()}*
-┃│✾ ⋟ *tenemos varios tipos de menus*
-┃│✾ ⋟ 1
-┃│✾ ⋟ *#menucompleto*
-┃│✾ ⋟ 2
-┃│✾ ⋟ *#descargasmenu*
-┃│✾ ⋟ *ejemplo:*
-┃│✾ ⋟ *#menucompleto*
-┃╰══ ⪨`
 
-await conn.sendMessage(m.chat, {   
-  text: uwu,  
-  contextInfo:{  
-  forwardingScore: 9999999,  
-  isForwarded: true,   
-  mentionedJid:[m.sender],  
-  "externalAdReply": {  
-  "showAdAttribution": true,  
-  "containsAutoReply": true,
-  "renderLargerThumbnail": true,  
-  "title": wm,   
-  "containsAutoReply": true,  
-  "mediaType": 1,   
-  "thumbnail": fotogodzx,  
-  "mediaUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`,  
-  "sourceUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`  
-  }  
-  }  
-  }, { quoted: m })
-}  
-if (command == "menucompleto" || command == "allmenu") {
+if (command == "menu" || command == "allmenu") {
 await m.reply(`[ 𝐂𝐀𝐑𝐆𝐀𝐍𝐃𝐎 𝐌𝐄𝐍𝐔... ]`);                 
 var completomenu = `*╭━━❍𝑺𝒉𝒂𝒅𝒐𝒘𝑩𝒐𝒕❍━━╮* 
  *┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
@@ -571,10 +540,26 @@ var completomenu = `*╭━━❍𝑺𝒉𝒂𝒅𝒐𝒘𝑩𝒐𝒕❍━━�
  ║ ❒ 𝐁𝐘 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂        
  ╚══════════════════╝ 
  `.trim();
- await  conn.sendMessage(m.chat,{ image:{ url:"https://telegra.ph/file/dde9bd1f999297449d139.jpg", }, caption: completomenu, 
-contextInfo: { mentionedJid: [m.sender], externalAdReply: { title: `MENU - COMPLETO`, 
-sourceUrl: "http://paypal.me/DorratBotOficial", mediaType: 1, showAdAttribution: true, thumbnailUrl: "https://telegra.ph/file/dde9bd1f999297449d139.jpg", 
-}, }, }, { quoted: m,});}};
+ await conn.sendMessage(m.chat, {   
+  text: uwu,  
+  contextInfo:{  
+  forwardingScore: 9999999,  
+  isForwarded: true,   
+  mentionedJid:[m.sender],  
+  "externalAdReply": {  
+  "showAdAttribution": true,  
+  "containsAutoReply": true,
+  "renderLargerThumbnail": true,  
+  "title": wm,   
+  "containsAutoReply": true,  
+  "mediaType": 1,   
+  "thumbnail": fotogodzx,  
+  "mediaUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`,  
+  "sourceUrl": `https://chat.whatsapp.com/BmsElfLOkC6DYTo4rqaQcf`  
+  }  
+  }  
+  }, { quoted: m })
+}  
          
   shadow.command = [
   "menu",
