@@ -33,5 +33,4 @@ let handler = async (m, {conn, command, text, usedPrefix}) => {
 handler.help = ["playdoc", "play3"].map((v) => v + " <pencarian>");
 handler.tags = ["downloader"];
 handler.command = /^play3|playdoc?$/i;
-handler.dolares = 5;
 export default handler;
