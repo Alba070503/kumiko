@@ -20,5 +20,4 @@ let handler = async (m, {conn}) => {
 handler.help = ["shipost <query>", "shipost <query>"];
 handler.tags = ["internet", "tools"];
 handler.command = /^(shipost)$/i;
-handler.dolares = 5;
 export default handler;
