@@ -223,7 +223,7 @@ rows: [
           mentionedJid: [m.sender],  
           externalAdReply: {  
             title: `MENU - DESCARGAS`,  
-            sourceUrl: "http://paypal.me/DorratBotOficial",  
+            sourceUrl: "https://youtube.com/@AlbaO7O503",  
             mediaType: 1,  
             showAdAttribution: true,  
             thumbnailUrl: "https://telegra.ph/file/dde9bd1f999297449d139.jpg",  
