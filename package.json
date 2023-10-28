@@ -1,7 +1,7 @@
 {
-  "nombre": "ShadowBot-MD",
+  "nombre": "Kumiko-MD",
   "version": "1.0.0",
-  "apoyó": "Subscribete al canal de YT DIEGOGAMEPLAYS82",
+  "apoyó": "Subscribete al canal de YT Alba070503",
   "main": "index-inicio.js",
   "type": "module",
   "directories": {
@@ -14,9 +14,9 @@
     "test": "node test.js",
     "test2": "nodemon index-inicio.js"
   },
-  "homepage": "https://github.com/DIEGO-OFC/ShadowBot-MD",
+  "homepage": "https://github.com/Alba070503/kumiko",
   "author": {
-    "name": "DIEGO-OFC"
+    "name": "Alba070503"
   },
   "repository": {
     "type": "git",
