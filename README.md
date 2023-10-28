@@ -1,27 +1,22 @@
 
 
-# **POR AHORA ESTE REPOSITORIO TENDRA POCAS ACTUALIZACIONES, SE VA A HACER UNA VERSIÓN PRIVADA,EL REPOSITORIO IGUAL ESTA 100% FUNCIONAL.**
-
-# ***🔥 Shadow-Bot-MD 🔥***
+# ***🔥 Kumiko-Bot-MD🔥***
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/ShadowBotV4-MD/blob/master/src/sinfoto.jpg" alt="DORRAT-BOT-MD" width="900"/>
+<img src="https://github.com/Alba070503/Kumiko-MD/blob/master/Menu.png" alt="DORRAT-BOT-MD" width="900"/>
 </p>
 
-#  ***Anterior nombre: Dorrat-Bot-MD***
-Dorrat se seguira usando para distintas cosas y funciones.
+#  ***Nombre Anterior: Natsuki-MD***
+Natsuki se seguira usando para distintas cosas y funciones.
 
 ### `—◉ ❤️BOTS OFICIALES`
 
-<a href="http://wa.me/50664432500" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59169082575" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
 <a href="http://wa.me/528442286089" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 
 ### `—◉ 🔥GRUPOS OFICIALES`
 
@@ -31,11 +26,7 @@ Dorrat se seguira usando para distintas cosas y funciones.
 )](https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc)  <a href="https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 ---------
-> GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
-
-## `[🗂️] Página del bot`
-
-<a href="https://dorrat-bot-oficial.ml/" target="_blank"> <img src="https://img.shields.io/badge/-pagina aqui-%23E4405F?style=for-the-badge&logo=página aqui&logoColor=black" target="_blank"></a> 
+> GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :) 
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
@@ -67,7 +58,7 @@ Dorrat se seguira usando para distintas cosas y funciones.
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/Shadow-Bot-MD
+> git clone https://github.com/Alba070503/kumiko
 > cd Zirax-Bot-MD 
 > yarn install 
 > npm install
@@ -109,6 +100,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
+<a href="https://github.com/Alba070503"><img src="https://github.com/Alba070503.png" width="350" height="350" alt="Alba070503"/></a>
 
-> The Shadow - Brockers - Bot - MD_ By DIEGO OFC 
+> Kumiko-Bot-MD By @Alba070503
